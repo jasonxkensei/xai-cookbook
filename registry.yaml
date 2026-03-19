@@ -82,3 +82,16 @@
     - Zhaohan Dong
   tags:
     - function-calling
+
+    - title: "Verifiable AI Reasoning with Grok + xProof"
+  path: examples/verifiable_ai_reasoning/guide.ipynb
+  description: "Anchor Grok's reasoning on-chain before output generation — creating a cryptographically verifiable 4W audit trail (WHO/WHAT/WHEN/WHY) via xProof on MultiversX"
+  date: 2026-03-19
+  authors:
+    - Jason Kensei
+  tags:
+    - function-calling
+    - blockchain
+    - verification
+    - trust
+    - agents
